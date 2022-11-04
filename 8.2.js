@@ -27,3 +27,8 @@ document.getElementById('result').innerHTML=a/b
 
 
 }
+if (Number < 0) {
+    greeting = "te laag";
+} else {
+
+}
